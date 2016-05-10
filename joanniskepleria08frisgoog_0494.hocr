@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joanniskepleria08frisgoog_0494.png"; bbox 0 0 3262 5430; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 335 158 1596 3829">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 335 158 1596 3829">
+     <span class='ocr_line' id='line_1_1' title="bbox 335 158 1596 3829; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 335 158 1596 3829; x_wconf 95' lang='lat' dir='ltr'><strong>    </strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1299 633 1593 858; x_wconf 95' lang='lat' dir='ltr'><strong>  </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 719 652 1358 723">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 719 638 1358 723">
+     <span class='ocr_line' id='line_1_2' title="bbox 719 652 1358 723; baseline 0.002 -8"><span class='ocrx_word' id='word_1_3' title='bbox 719 652 722 674; x_wconf 69' lang='lat'><strong><em>¹</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 848 654 1191 720; x_wconf 44' lang='lat' dir='ltr'><strong>&#39;1&#39;22-*5wssm2w*</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1189 662 1358 723; x_wconf 50' lang='lat' dir='ltr'><strong>ww*</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1161 678 1411 810">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1161 678 1411 810">
+     <span class='ocr_line' id='line_1_3' title="bbox 1161 678 1411 810; baseline 0 -3"><span class='ocrx_word' id='word_1_6' title='bbox 1161 678 1411 810; x_wconf 50' lang='lat' dir='ltr'><strong>A·</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

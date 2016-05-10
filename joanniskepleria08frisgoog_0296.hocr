@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joanniskepleria08frisgoog_0296.png"; bbox 0 0 3254 5430; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 563 207 1620 3081">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 563 207 1620 3081">
+     <span class='ocr_line' id='line_1_1' title="bbox 563 207 1620 3081; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 563 207 1620 3081; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 629 3082 1584 3264">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 629 3071 1584 3243">
+     <span class='ocr_line' id='line_1_2' title="bbox 629 3082 1348 3152; baseline -0.016 14.667"><span class='ocrx_word' id='word_1_2' title='bbox 629 3092 792 3137; x_wconf 50' lang='lat' dir='ltr'><em>w</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 764 3093 1009 3130; x_wconf 47' lang='lat' dir='ltr'><em>w</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1083 3085 1177 3136; x_wconf 48' lang='lat' dir='ltr'><strong>w»</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1179 3082 1348 3152; x_wconf 51' lang='lat' dir='ltr'><strong>ww</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 630 3151 1584 3264; baseline 0.005 -26.151"><span class='ocrx_word' id='word_1_6' title='bbox 630 3174 722 3221; x_wconf 45' lang='grc' dir='ltr'>μ</span> <span class='ocrx_word' id='word_1_7' title='bbox 717 3151 1020 3264; x_wconf 48' lang='lat' dir='ltr'><strong>wwwussm</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1023 3158 1182 3224; x_wconf 46' lang='lat' dir='ltr'><strong>*w*</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1191 3161 1328 3223; x_wconf 56' lang='grc' dir='ltr'><strong>Μ</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1378 3177 1387 3183; x_wconf 78' lang='grc'><strong>·’</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1362 3154 1501 3229; x_wconf 62' lang='lat' dir='ltr'><strong>1³ ·</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1544 3162 1584 3243; x_wconf 66' lang='grc' dir='ltr'>Ϊ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
